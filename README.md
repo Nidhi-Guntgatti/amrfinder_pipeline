@@ -1,4 +1,4 @@
-# **AMRFinder Pipeline Documentation**
+# **AMRFinder Pipeline**
 
 # Overview:
 This repository contains scripts and documentation for antimicrobial resistance (AMR) analysis using AMRFinder outputs.
