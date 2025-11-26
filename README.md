@@ -16,11 +16,11 @@ amrfinder_pipeline/
 ```
 2. documentation/
 ```
-      class_level_full.pdf
+      class_level documentation.pdf
 
-      gene_level_documentation.pdf
+      gene_level documentation.pdf
 
-      heatmaps_graphs_documentation.pdf
+      heatmaps_graphs documentation.pdf
 ```
  # Scripts:
 1. antibiotic class interpretation.R
